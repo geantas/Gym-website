@@ -1,0 +1,24 @@
+/* Custom CSS */
+
+  
+.myheader {
+  background-image: url(bckg2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.regions {
+    background: none;
+}
+
+.l-navbar {
+   position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.block-plugin-id--system-branding-block {
+position: relative;
+ top: 40%;
+left: 0%;
+}
